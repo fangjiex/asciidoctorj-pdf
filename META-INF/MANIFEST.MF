@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: asciidoctorj-pdf
+Build-Date: 2017-03-14
+Implementation-Version: 1.5.0-alpha.14
+Built-By: robertpanzer
+Created-By: 1.8.0_91 (Oracle Corporation 25.91-b14)
+Implementation-Vendor: asciidoctor.org
+
